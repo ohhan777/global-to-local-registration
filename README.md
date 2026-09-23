@@ -1,9 +1,10 @@
 # Automated Registration of High-Resolution Satellite Imagery Using Height-Aware Global Modeling and Reliability-Controlled Local Refinement
 
-**Juyoung Kim**, **Hyun-Ok Kim**, **Han Oh**
+**Juyoung Kim**<sup>1</sup>, **Hyun-Ok Kim**<sup>2</sup>, **Han Oh**<sup>1,2</sup>
 
-University of Science and Technology (UST), Daejeon, Republic of Korea
-Korea Aerospace Research Institute (KARI), Daejeon, Republic of Korea
+<sup>1</sup>University of Science and Technology (UST), Daejeon, Republic of Korea
+
+<sup>2</sup>Korea Aerospace Research Institute (KARI), Daejeon, Republic of Korea
 
 ---
 
